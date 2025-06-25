@@ -16,7 +16,7 @@ India faces widespread hunger despite massive daily food wastage. There is no ef
 |------------------|------------------|---------------------|-------------------------------|
 | SREESHANTH S     | 2023lm70052      |  2023lm70052@wilp.bits-pilani.ac.in | Technical Analyst, Programmer  |
 | HARI PRASANTH G | 2023lm70053      |  2023lm70053@wilp.bits-pilani.ac.in | Project Manager            |
-| KAVIYASRI S     | 2023lm70056      | 2023lm70056@wilp.bits-pilani.ac.in  |  | Tester
+| KAVIYASRI S     | 2023lm70056      | 2023lm70056@wilp.bits-pilani.ac.in  | Tester | 
 | DHORE SANKET RAJARAM | 2023lm70055      | 2023lm70055@wilp.bits-pilani.ac.in | No Response     |
 | ANSH TRIPATHI   | 2023lm70054      | 2023lm70054@wilp.bits-pilani.ac.in       | No Response                |
  
